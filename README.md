@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm satish deshmukh</h1>
 <h3 align="center">i am Data Analytics Enthusiast</h3>
-<img align="right" width=400 alt="coding" src="[![image](https://github.com/satish-deshmukh/satish-deshmukh/assets/134916779/6e23d28a-0cb8-4075-aeab-3752ac28f5d2)">
+<img align="right" width=400 alt="coding" src="[[![image](https://github.com/satish-deshmukh/satish-deshmukh/assets/134916779/6e23d28a-0cb8-4075-aeab-3752ac28f5d2)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fonline-courses%2Fwhat-is-data-analyst-dg439&psig=AOvVaw1uPlIcIe4OkyVKX33-B7u8&ust=1685433900233000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLi04NiImv8CFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish&label=Profile%20views&color=0e75b6&style=flat" alt="satish" /> </p>
 
