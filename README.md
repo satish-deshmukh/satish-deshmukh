@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm satish deshmukh</h1>
 <h3 align="center">i am Data Analytics Enthusiast</h3>
-<img align="right" width=400 alt="coding" scr="C:\Users\HP\Downloads\images.jpg";
+<img align="right" width=400 alt="coding" scr="[C:\Users\HP\Downloads\images.jpg](https://www.google.com/search?q=data+analyst&sxsrf=APwXEdeWrZA2LV_68YLUB00xC6OOQfxm0A:1685345981410&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiama6Eg5r_AhXpmlYBHbH7BfIQ_AUoAXoECAIQAw&biw=1366&bih=649&dpr=1#imgrc=CNgyvhup00nzhM)";
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish&label=Profile%20views&color=0e75b6&style=flat" alt="satish" /> </p>
 
