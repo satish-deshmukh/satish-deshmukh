@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm satish deshmukh</h1>
 <h3 align="center">i am Data Analytics Enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/satish-deshmukh/satish-deshmukh/assets/134916779/fa7092e6-3b79-43af-a42a-97d7f3954020">
+<img align="right" alt="coding" width="400" src="!https://github.com/satish-deshmukh/satish-deshmukh/assets/134916779/64813b73-68ad-49e7-8fe7-d30d973506cc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish&label=Profile%20views&color=0e75b6&style=flat" alt="satish" /> </p>
 
